@@ -41,26 +41,28 @@ document.addEventListener("DOMContentLoaded",(e)=>{
 
     // POSICION DE LOS CACTUS 
     // Math.random() * (max - (min) ) + (min)
-    Cactus1.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus1.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus1.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus1.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    Cactus1.position.x = -1;
+    Cactus1.position.y = 0;
 
-    Cactus2.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus2.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus2.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus2.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Cactus3.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus3.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus3.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus3.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Cactus4.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus4.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus4.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus4.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Cactus5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus5.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus5.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Cactus6.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus6.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Cactus7.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Cactus7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus7.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Cactus7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
 
     // ROCA 
@@ -80,26 +82,28 @@ document.addEventListener("DOMContentLoaded",(e)=>{
 
     // POSICION DE LAS ROCAS 
     // Math.random() * (max - (min) ) + (min)
-    Roca1.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca1.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca1.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca1.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    Roca1.position.x = 1;
+    Roca1.position.y = 0;
 
-    Roca2.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca2.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca2.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca2.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Roca3.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca3.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca3.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca3.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Roca4.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca4.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca4.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca4.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Roca5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca5.position.x = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Roca6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca6.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
-    Roca7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
-    Roca7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
+    // Roca7.position.y = Math.random() * (2.6 - (-2.6) ) + (-2.6);
 
 
     // VAQUERO 
@@ -112,30 +116,25 @@ document.addEventListener("DOMContentLoaded",(e)=>{
     scene.add( 
         desierto, 
         Cactus1, 
-        Cactus2, 
-        Cactus3, 
-        Cactus4, 
-        Cactus5, 
-        Cactus6, 
-        Cactus7, 
+        // Cactus2, 
+        // Cactus3, 
+        // Cactus4, 
+        // Cactus5, 
+        // Cactus6, 
+        // Cactus7, 
         Roca1, 
-        Roca2, 
-        Roca3, 
-        Roca4, 
-        Roca5, 
-        Roca6, 
-        Roca7, 
+        // Roca2, 
+        // Roca3, 
+        // Roca4, 
+        // Roca5, 
+        // Roca6, 
+        // Roca7, 
         Vaquero 
     );
 
     renderer.render( scene, camera );
     
-    const animate = (posInit) => {
-
-        
-
-
-
+    const animate = () => {
         if(Vaquero.position.x<=3.8){
 
             requestAnimationFrame( animate );
@@ -146,12 +145,89 @@ document.addEventListener("DOMContentLoaded",(e)=>{
             Vaquero.position.x = Vaquero.position.x;
         }
 
-        Vaquero.position.x += 0.1;
+        Vaquero.position.x = 1;
         
         renderer.render( scene, camera );
         
-                    
+        console.log(colisiones())         
     };    
+
+    const colisiones=()=>{
+
+        // no colision de vaquero de arriba hacia abajo
+        if( (Vaquero.position.y + Vaquero.geometry.parameters.height) < Roca1.position.y ){return false}
+
+        // no colision de vaquero de abajo hacia arriba
+        if(Vaquero.position.y > (Roca1.geometry.parameters.radius*2)){return false}
+
+        // no colision de vaquero de izquierda a derecha
+        if((Vaquero.position.x + Vaquero.geometry.parameters.height) < Roca1.position.x){return false}
+
+        // no colision de vaquero de izquierda a derecha
+        if(Vaquero.position.x > ( Roca1.position.x +Roca1.geometry.parameters.radius )){return false}
+
+        return true;
+    }
+
+    // colision de arriba hacia abajo
+
+    if(colisiones() && (datos.jugador_y + datos.jugador_alto) < datos.plataforma[i].y + datos.gravedad){
+        Vaquero.position.y += Math.random() * (0.5 - (-0.5) ) + (-0.5);
+    }  
+
+    // colision de abajo hacia arriba
+    if(colisionesPlataforma() && datos.jugador_y  - datos.gravedad > (datos.plataforma[i].y + datos.plataforma[i].alto)){
+
+        datos.gravedad = 1;
+        datos.jugador_y = datos.plataforma[i].y + datos.jugador_alto;
+
+    }  
+    // ----------------------
+
+    if(datos.desplazamientoEscenario <= datos.limiteEscenario){
+
+
+        // colision de IZQUIERDA A DERECHA 
+
+        if(colisionesPlataforma() && (datos.jugador_x + datos.jugador_ancho) < datos.plataforma[i].x + datos.movimientoJugador){
+
+            datos.movimientoJugador = 0;
+            datos.jugador_x = datos.plataforma[i].x - datos.jugador_ancho;
+
+        }  
+
+        // COLISION DERECHA A IZQUIERDA 
+
+        if(colisionesPlataforma() && datos.jugador_x - datos.movimientoJugador > (datos.plataforma[i].x + datos.plataforma[i].ancho)){
+
+            datos.movimientoJugador = 0;
+            datos.jugador_x = datos.plataforma[i].x + datos.jugador_ancho;
+
+        }   
+
+    }else{
+
+        // colision de IZQUIERDA A DERECHA 
+
+        if(colisionesPlataforma() && (datos.jugador_x + datos.jugador_ancho) < datos.plataforma[i].x - datos.movimiento){
+
+            datos.movimiento = 0;
+            datos.jugador_x = datos.plataforma[i].x - datos.jugador_ancho;
+
+        }  
+
+        // COLISION DERECHA A IZQUIERDA 
+
+        if(colisionesPlataforma() && datos.jugador_x + datos.movimiento > (datos.plataforma[i].x + datos.plataforma[i].ancho)){
+
+            datos.movimiento = 0;
+            datos.jugador_x = datos.plataforma[i].x + datos.jugador_ancho;
+
+        }   
+
+
+
+    }
 
     // renderer.render( scene, camera );
     document.getElementById("iniciar").addEventListener("click", () => {
